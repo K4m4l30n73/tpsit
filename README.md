@@ -1,4 +1,1 @@
 # tpsit
-ffff
-negro
-no
