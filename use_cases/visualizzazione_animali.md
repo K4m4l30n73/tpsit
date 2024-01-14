@@ -1,6 +1,6 @@
 ## Caso d'Uso: Visualizzazione degli Animali
 
-**Attori:** Utente Generico
+**Attori:** Utente non registrato
 
 **Descrizione:**
 Gli utenti possono visualizzare la lista di tutti gli animali presenti nello zoo.
